@@ -153,7 +153,7 @@ if (!isset($admin_id)) {
    </style>
 </head>
 <body>
-<?php include '../components/admin_header.php'; ?>
+<!-- <?php include '../components/admin_header.php'; ?> -->
 
 <section class="reviews">
    <h1 class="heading">Product Reviews</h1>

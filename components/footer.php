@@ -20,23 +20,23 @@
 
       <div class="box">
          <h3>contact us</h3>
-         <a href="#"><i class="fas fa-phone"></i> 9800001100</a>
-         <a href="#"><i class="fas fa-phone"></i> 9811110000</a>
-         <a href="#"><i class="fas fa-envelope"></i> onlinestore@gmail.com</a>
-         <a href="#"><i class="fas fa-envelope"></i> storeonline@gmail.com</a>
+         <a href="#"><i class="fas fa-phone"></i> 9876543210</a>
+        
+         
+         <a href="#"><i class="fas fa-envelope"></i> lccfitgear@gmail.com</a>
         
       </div>
 
       <div class="box">
          <h3>follow us</h3>
          <a href="#"><i class="fab fa-facebook-f"></i>facebook</a>
-         <a href="#"><i class="fa-brands fa-x-twitter" ></i>twitter</a>
+         
          <a href="#"><i class="fab fa-instagram"></i>instagram</a>
-         <a href="#"><i class="fab fa-linkedin"></i>linkedin</a>
+        
       </div>
 
    </section>
 
-   <div class="credit">&copy; copyright @ <?= date('Y'); ?> by <span>onlinestore</span> | all rights reserved!</div>
+   <div class="credit">&copy; copyright @ <?= date('Y'); ?> by <span>fitgear</span> | all rights reserved!</div>
 
 </footer>

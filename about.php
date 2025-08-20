@@ -42,8 +42,8 @@ if(isset($_SESSION['user_id'])){
       </div>
 
       <div class="content">
-         <h3>why choose us?</h3>
-         <p>Our platform learns from your choices, providing personalized recommendations that make discovering new favorites effortless.We're committed to excellence. Every product undergoes through quality checks, so you can shop with confidence.Your satisfaction matters. Our dedicated support team is here to assist you every step of the way.</p>
+         <h3>why Fit Gear?</h3>
+         <p>At Fit Gear, we bring you premium-quality fitness products designed for performance, comfort, and durability. Whether you’re lifting, running, or recovering, our gear is tested by athletes and trusted by beginners alike. We combine style with function, so you can train smarter and reach your goals faster.</p>
          <a href="contact.php" class="btn">contact us</a>
       </div>
 

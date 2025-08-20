@@ -170,7 +170,7 @@ if(isset($_GET['delete'])){
    </style>
 </head>
 <body>
-<?php include '../components/admin_header.php'; ?>
+<!-- <?php include '../components/admin_header.php'; ?> -->
 
 <section class="coupons">
    <h1 class="heading">Manage Coupons</h1>
